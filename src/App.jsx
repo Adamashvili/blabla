@@ -22,7 +22,7 @@ function App() {
     <>
       <form onSubmit={handleSubmit(  registerLogic  )}>
         <div className="area">
-          <label htmlFor="">User Name</label>
+          <label htmlFor="">nikaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</label>
           <input type="text"  {...register("saxeli")}/>
           {errors.saxeli && <p className='errText'>{errors.saxeli.message}</p> }
         </div>
