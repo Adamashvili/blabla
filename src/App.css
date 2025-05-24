@@ -1,0 +1,17 @@
+form {
+  box-shadow: 0 0 20px 2px grey;
+  width: fit-content;
+  padding: 20px;
+}
+
+.area {
+  display: flex;
+  flex-direction: column;
+}
+
+.errText {
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+  font-weight: bold;
+}
